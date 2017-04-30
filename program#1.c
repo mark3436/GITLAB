@@ -2,6 +2,8 @@
 #include <string.h>
 void main()
 { char Name[6], G[55], answer[10];
+
+
   int i;
   do
   {
